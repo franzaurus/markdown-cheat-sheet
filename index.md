@@ -1,5 +1,5 @@
 ---
-title: Markdown Cheat Sheet
+title: Markdown Basic
 ---
 # Markdown Cheat Sheet
 
